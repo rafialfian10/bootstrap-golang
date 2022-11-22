@@ -25,4 +25,9 @@ body {
     .container {
         flex-direction: column-reverse !important;
     }
+
+    .card {
+        margin: auto;
+        width: 100vw !important;
+    }
 }
